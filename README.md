@@ -5,6 +5,10 @@
 
 **Discover services · Correlate CVEs · Prioritize remediation**
 
+**[English](README.md) · [Русский](README_RU.md)**
+
+**Telegram: [@zexokkydev](https://t.me/zexokkydev)**
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Powered%20by-Nmap-4A90E2)
 ![License](https://img.shields.io/badge/License-MIT-purple)
